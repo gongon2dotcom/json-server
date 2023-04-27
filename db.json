@@ -1,0 +1,17 @@
+{
+  "anagrafiche": [
+    {
+      "id": 1,
+      "title": "Anagrafica 1"
+    }
+  ],
+  "pratiche": [
+    {
+      "id": 1,
+      "body": "Pratica 1"
+    }
+  ],
+  "analisi": {
+    "name": "analisi 1"
+  }
+}
